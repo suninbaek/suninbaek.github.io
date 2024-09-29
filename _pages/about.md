@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sunin (Michael) Baek"
+title: "Sunin Baek"
 author_profile: true
 redirect_from: 
   - /about/
