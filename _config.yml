@@ -21,7 +21,7 @@ repository               : "suninbaek/suninbaek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Sunin Baek"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Researcher in the Movement Intelligence Laboratory at Korea University"
