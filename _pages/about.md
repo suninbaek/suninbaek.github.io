@@ -19,4 +19,4 @@ Please feel free to explore my work and reach out for potential collaborations! 
 
 
 ## Publications
-**[[J1]](https://mintlabkorea.github.io/LLJKE/)**   B. Hur, **S. Baek**, I. Kang, and D. Kim, “Learning Based Lower Limb Joint Kinematic Estimation Using Open Source IMU Data”, *Scientific Reports* 15.1 (2025): 5287. [[Project Page](https://mintlabkorea.github.io/LLJKE/)]
+**[[J1]](https://www.nature.com/articles/s41598-025-89716-4)**   B. Hur, **S. Baek**, I. Kang, and D. Kim, “Learning Based Lower Limb Joint Kinematic Estimation Using Open Source IMU Data”, *Scientific Reports* 15.1 (2025): 5287. [[Project Page](https://mintlabkorea.github.io/LLJKE/)]
